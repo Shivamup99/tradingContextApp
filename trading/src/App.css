@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.App{
+    background-color: #14161a;
+    color: white;
+    min-height: 100vh;
+}
+.title{
+    flex: 1 !important;
+    color: goldenrod;
+    font-weight: 800 !important;
+    cursor: pointer !important;
+    letter-spacing: 2px !important;
+    font-size: 20px !important;
+}
+
+
+/* Banner Styles */
+/* 
+.banner{
+    background-image: url('https://www.cnet.com/a/img/resize/78e7025e260353f4837380dd5a0b88b851b35545/2021/12/27/08396450-7e0f-4515-a7ee-6c4cae5345a8/gettyimages-1325823070.jpg?auto=webp&fit=crop&height=630&width=1200') ;
+} */
+/* .bannerContent{
+    height: 400 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 25 !important;
+    justify-content: space-around !important;
+} */
